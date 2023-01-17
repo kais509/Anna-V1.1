@@ -587,5 +587,5 @@ async def on_message(message):
         
         
 
-client.run("NzcwMzE2MjgyMzk0MDUwNjEx.X5by8Q.DmpbS-huAsdk2XXpWzXzSBQDzJc")
+client.run("Token Removed")
 
